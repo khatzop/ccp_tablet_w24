@@ -224,7 +224,7 @@ nav a.current, nav a:hover {
     nav ul a {
         display: block;
         padding: 35px;
-        background-color: #c3b091;
+        background-color:dimgrey;
         text-align: left;
     }
 
